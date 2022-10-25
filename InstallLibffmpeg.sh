@@ -6,7 +6,7 @@
 ##          written by Rudi1982            ##
 ##                 2022                    ##
 ##                                         ##
-##############################################
+#############################################
 
 if (( $EUID != 0 )); then
     echo "Bitte starte das Script als root oder mit dem sudo Kommando neu!"
