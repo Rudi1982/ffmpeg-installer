@@ -7,3 +7,5 @@ I've build a install script for the nwjs-ffmpeg-prebuilt. The prebuild can also 
 How it works?
 
 Just download the script and run it with sudo-privileges...
+
+Tested on Ubuntu 22.04 and works well.
